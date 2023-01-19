@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "firstName": "Terry",
+        "lastName": "Medhurst",
+        "emailId": "atuny0@sohu.com",
+        "password": "9uQFF1Lh",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 2,
+        "firstName": "Sheldon",
+        "lastName": "Quigley",
+        "emailId": "hbingley1@plala.or.jp",
+        "password": "CQutx25i8r",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 3,
+        "firstName": "Terrill",
+        "lastName": "Hills",
+        "emailId": "rshawe2@51.la",
+        "password": "OWsTbMUgFc",
+        "role": "IT_STAFF"
+    },
+    {
+        "id": 4,
+        "firstName": "Miles",
+        "lastName": "Cummerata",
+        "emailId": "yraigatt3@nature.com",
+        "password": "sRQxjPfdS",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 5,
+        "firstName": "Mavis",
+        "lastName": "Schultz",
+        "emailId": "kmeus4@upenn.edu",
+        "password": "aUTdmmmbH",
+        "role": "IT_STAFF"
+    },
+    {
+        "id": 6,
+        "firstName": "Alison",
+        "lastName": "Reichert",
+        "emailId": "jtreleven5@nhs.uk",
+        "password": "zY1nE46Zm",
+        "role": "IT_STAFF"
+    },
+    {
+        "id": 7,
+        "firstName": "Oleta",
+        "lastName": "Abbott",
+        "emailId": "dpettegre6@columbia.edu",
+        "password": "YVmhktgYVS",
+        "role": "IT_STAFF"
+    },
+    {
+        "id": 8,
+        "firstName": "Ewell",
+        "lastName": "Mueller",
+        "emailId": "ggude7@chron.com",
+        "password": "MWwlaeWcOoF6",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 9,
+        "firstName": "Demetrius",
+        "lastName": "Corkery",
+        "emailId": "nloiterton8@aol.com",
+        "password": "HTQxxXV9Bq4",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 10,
+        "firstName": "Eleanora",
+        "lastName": "Price",
+        "emailId": "umcgourty9@jalbum.net",
+        "password": "i0xzpX",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 11,
+        "firstName": "Marcel",
+        "lastName": "Jones",
+        "emailId": "acharlota@liveinternet.ru",
+        "password": "M9lbMdydMN",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 12,
+        "firstName": "Assunta",
+        "lastName": "Rath",
+        "emailId": "rhallawellb@dropbox.com",
+        "password": "esTkitT1r",
+        "role": "IT_STAFF"
+    },
+    {
+        "id": 13,
+        "firstName": "Trace",
+        "lastName": "Douglas",
+        "emailId": "lgribbinc@posterous.com",
+        "password": "ftGj8LZTtv9g",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 14,
+        "firstName": "Enoch",
+        "lastName": "Lynch",
+        "emailId": "mturleyd@tumblr.com",
+        "password": "GyLnCB8gNIp",
+        "role": "IT_STAFF"
+    },
+    {
+        "id": 15,
+        "firstName": "Jeanne",
+        "lastName": "Halvorson",
+        "emailId": "kminchelle@qq.com",
+        "password": "0lelplR",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 16,
+        "firstName": "Trycia",
+        "lastName": "Fadel",
+        "emailId": "dpierrof@vimeo.com",
+        "password": "Vru55Y4tufI4",
+        "role": "IT_STAFF"
+    },
+    {
+        "id": 17,
+        "firstName": "Bradford",
+        "lastName": "Prohaska",
+        "emailId": "vcholdcroftg@ucoz.com",
+        "password": "mSPzYZfR",
+        "role": "IT_STAFF"
+    },
+    {
+        "id": 18,
+        "firstName": "Arely",
+        "lastName": "Skiles",
+        "emailId": "sberminghamh@chron.com",
+        "password": "cAjfb8vg",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 19,
+        "firstName": "Gust",
+        "lastName": "Purdy",
+        "emailId": "bleveragei@so-net.ne.jp",
+        "password": "UZGAiqPqWQHQ",
+        "role": "NORMAL_USER"
+    },
+    {
+        "id": 20,
+        "firstName": "Lenna",
+        "lastName": "Renner",
+        "emailId": "aeatockj@psu.edu",
+        "password": "szWAG6hc",
+        "role": "NORMAL_USER"
+    }
+]
